@@ -2,8 +2,8 @@
 ## Automated ui tests for a social blogging site CRUD functionality
 
 ### Prerequisites: 
-   > Java 8
-   > Maven 3.0 or above
+   ###### Java 8
+   ###### Maven 3.0 or above
 
 ### Set up project in your IDE:
    > Open ‘seleniumtest’ level workspace project using InteliJ IDEA (community version) and enable auto enable dependency resolve feature.
